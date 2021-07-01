@@ -19,10 +19,11 @@
 
 ## Papers
 
-| Title | links |
-| ----- | ----- |
-|       |       |
-|       |       |
-|       |       |
-|       |       |
+| Title                                                        |
+| ------------------------------------------------------------ |
+| [Freund, M. C., Bugg, J. M., & Braver, T. S. (2021). A representational similarity analysis of cognitive control during color-word Stroop. *The Journal of Neuroscience*, JN-RM-2956-20. https://doi.org/10.1523/JNEUROSCI.2956-20.2021](https://github.com/SCNU-Psy-QiLab/Seminar_2021/blob/4bf1ccd2d3948770c1852f90b187dd81ef825ba2/2021Summer/JNEUROSCI.2956-20.2021.full.pdf) |
+|                                                              |
+|                                                              |
+|                                                              |
+|                                                              |
 
